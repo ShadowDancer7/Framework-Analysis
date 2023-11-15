@@ -1,5 +1,5 @@
 # Framework-Analysis
-I have created a hybrid framework by scratch to highlight my skills and experience using Python and PyTest.
+I have created a hybrid framework from scratch to highlight my skills and experience using Python and PyTest.
 
 Here's a listing of the tools used for automation from the requirements.txt file
 
